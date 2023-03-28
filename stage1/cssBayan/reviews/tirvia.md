@@ -25,7 +25,7 @@
   > Transitions are performed only for open event and only on accordion caption
 6. &#09989; Responsive design with three breakpoints for mobile, tablet, and desktop exist. Accordion is displayed correctly at `mobile 320x568, tablet 820x1180, desktop 1920×1080`. (Note:  breakpoints don't have to be 320x568, 820x1180, 1920x1080). **10 / 10**
 7. &#10060; All visual effects when the cursor is hovering over the memes, when the mouse is down on a meme, and when a meme is selected are implemented **0 / 10**
-  > Hower, mousedown effects aren't performed
+  > Hover, mousedown effects aren't performed
 8. &#10071; The entire row (text, icon, and meme image) clickable **2.5 / 5**
   > Meme image isn't clickable
 9. &#10060; Cursor over the memes (hover) effect only exists for devices that can support hover. **0 / 10**
