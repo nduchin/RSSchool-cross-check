@@ -16,5 +16,5 @@
   | :---------- | :------------- | :----- |:--:| :--- |
   | [valerytokarev](./stage1/shelter-1/reviews/valerytokarev.md) | [valerytokarev](https://github.com/valerytokarev) | [link](https://rolling-scopes-school.github.io/valerytokarev-JSFE2023Q1/pages/main/index.html) | - | **75** |
   | [maria-kashpur.md](./stage1/shelter-1/reviews/maria-kashpur.md) | [maria-kashpur](https://github.com/maria-kashpur) | [link](https://rolling-scopes-school.github.io/maria-kashpur-JSFE2023Q1/shelter/) | - | **100** |
-  | [nataliapw.md](./stage1/shelter-1/reviews/nataliapw.md) | [nataliapw](https://github.com/nataliapw) | [link](http://s29645vv.beget.tech/NataliaPW/shelter/) | - | **0** |
+  | [nataliapw.md](./stage1/shelter-1/reviews/nataliapw.md) | [nataliapw](https://github.com/nataliapw) | [link](http://s29645vv.beget.tech/NataliaPW/shelter/) | - | **57** |
   | [dim419.md](./stage1/shelter-1/reviews/dim419.md) | [dim419](https://github.com/dim419) | [link](https://rolling-scopes-school.github.io/dim419-JSFE2023Q1/shelter) | - | **100** |
