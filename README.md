@@ -20,17 +20,15 @@
   | [nataliapw.md](./stage1/shelter-1/reviews/nataliapw.md) | [nataliapw](https://github.com/nataliapw) | [link](http://s29645vv.beget.tech/NataliaPW/shelter/) | - | **57** |
   | [dim419.md](./stage1/shelter-1/reviews/dim419.md) | [dim419](https://github.com/dim419) | [link](https://rolling-scopes-school.github.io/dim419-JSFE2023Q1/shelter) | - | **100** |
 
-- **[Shelter#2](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter-part2.md)** , *Detailed review complete in app.rs*  
+- **[Shelter#2](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter-part2.md)** , *Detailed reviews complete in app.rs*  
   Max rank : **100 p.**  
 
-- **[Shelter#3](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter-part3.md)** , *Detailed review complete in app.rs*  
+- **[Shelter#3](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter-part3.md)** , *Detailed reviews complete in app.rs*  
   Max rank : **110 p.**  
 
 - **[Clean-code](https://github.com/rolling-scopes-school/tasks/blob/master/stage1/modules/clean-code/clean-code-s1e1.md)** , *[folder](./stage1/clean-code/)*  
   Max rank : **45 p.**  
   | Review file | Performer (gh) | Deploy | PR | Rank |
   | :---------- | :------------- | :----- |:--:| :--- |
-  | []() | []() | []() | []() |  |
-  | []() | []() | []() | []() |  |
-  | []() | []() | []() | []() |  |
-  | []() | []() | []() | []() |  |
+  | [codestudent24.md](./stage1/clean-code/reviews/codestudent24.md) | [codestudent24](https://github.com/codestudent24) | [link](https://codestudent24.github.io/clean-code-s1e1/) | [PR](https://github.com/codestudent24/clean-code-s1e1/pull/1) | **20.5** |
+  *Other detailed reviews complete in app.rs*  
